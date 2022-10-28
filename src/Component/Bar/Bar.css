@@ -1,0 +1,39 @@
+/* for bar.js */
+.search-bar{
+    margin: 0px auto;
+    width:70%;
+    text-align: center;
+     /* margin-top: 5em;  */
+     padding-top: 70px;
+}
+input{
+    margin-top: 5em;
+}
+.jewelry{
+    height: 50%;
+}
+.j-image{
+    height: 300px;
+    width: 200x;
+}
+.j-card-t{
+    height: 190px;
+}
+.marquee{
+    background-color: grey;
+}
+/* for electronic.js */
+.j-card-e{
+    height: 240px;
+}
+.j-elect{
+    height: 200px;
+}
+/* for men */
+.j-card-m{
+    height: 170px;
+}
+/* for women */
+.j-card-w{
+    height: 200px;
+}
